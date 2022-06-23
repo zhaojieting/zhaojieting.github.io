@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jieting Zhao's website.
 
 You can use the [editor on GitHub](https://github.com/zhaojieting/zhaojieting.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
