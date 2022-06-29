@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://robot-vision-and-navigation-lab.github.io/sitemap.xml

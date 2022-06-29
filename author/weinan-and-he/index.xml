@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weinan and He | Robot Vision and Navigation Lab</title>
+    <link>https://robot-vision-and-navigation-lab.github.io/author/weinan-and-he/</link>
+      <atom:link href="https://robot-vision-and-navigation-lab.github.io/author/weinan-and-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weinan and He</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 05:49:13 +0000</lastBuildDate>
+    <image>
+      <url>https://robot-vision-and-navigation-lab.github.io/media/icon_hufd23fe07f913647ae034fd53d5c713c2_6850_512x512_fill_lanczos_center_3.png</url>
+      <title>Weinan and He</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/author/weinan-and-he/</link>
+    </image>
+    
+    <item>
+      <title>Mapping While Following: 2D LiDAR SLAM in Indoor Dynamic Environments with a Person Tracker</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/mapping-while-following-2d-lidar-slam-in-indoor-dynamic-environments-with-a-person-tracker/</link>
+      <pubDate>Wed, 01 Dec 2021 05:49:13 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/mapping-while-following-2d-lidar-slam-in-indoor-dynamic-environments-with-a-person-tracker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

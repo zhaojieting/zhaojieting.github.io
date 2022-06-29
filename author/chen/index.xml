@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen | Robot Vision and Navigation Lab</title>
+    <link>https://robot-vision-and-navigation-lab.github.io/author/chen/</link>
+      <atom:link href="https://robot-vision-and-navigation-lab.github.io/author/chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 05:43:12 +0000</lastBuildDate>
+    <image>
+      <url>https://robot-vision-and-navigation-lab.github.io/media/icon_hufd23fe07f913647ae034fd53d5c713c2_6850_512x512_fill_lanczos_center_3.png</url>
+      <title>Chen</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/author/chen/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Strategy of Keyframe Selection With PD Controller for VSLAM Systems</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/dynamic-strategy-of-keyframe-selection-with-pd-controller-for-vslam-systems/</link>
+      <pubDate>Tue, 01 Feb 2022 05:43:12 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/dynamic-strategy-of-keyframe-selection-with-pd-controller-for-vslam-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness Improvement of Using Pre-Trained Network in Visual Odometry for On-Road Driving</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</link>
+      <pubDate>Wed, 01 Dec 2021 03:39:34 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Improvement in 3D Object Landmark Inference for Semantic Mapping</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/robust-improvement-in-3d-object-landmark-inference-for-semantic-mapping/</link>
+      <pubDate>Sun, 30 May 2021 05:44:21 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/robust-improvement-in-3d-object-landmark-inference-for-semantic-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEB-Map: Visual Localization Error Prediction for Safe Navigation</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/ceb-map-visual-localization-error-prediction-for-safe-navigation/</link>
+      <pubDate>Sat, 15 May 2021 05:40:53 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/ceb-map-visual-localization-error-prediction-for-safe-navigation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

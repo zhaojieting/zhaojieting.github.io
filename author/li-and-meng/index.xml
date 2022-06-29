@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li and Meng | Robot Vision and Navigation Lab</title>
+    <link>https://robot-vision-and-navigation-lab.github.io/author/li-and-meng/</link>
+      <atom:link href="https://robot-vision-and-navigation-lab.github.io/author/li-and-meng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Li and Meng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 May 2021 05:40:53 +0000</lastBuildDate>
+    <image>
+      <url>https://robot-vision-and-navigation-lab.github.io/media/icon_hufd23fe07f913647ae034fd53d5c713c2_6850_512x512_fill_lanczos_center_3.png</url>
+      <title>Li and Meng</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/author/li-and-meng/</link>
+    </image>
+    
+    <item>
+      <title>CEB-Map: Visual Localization Error Prediction for Safe Navigation</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/ceb-map-visual-localization-error-prediction-for-safe-navigation/</link>
+      <pubDate>Sat, 15 May 2021 05:40:53 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/ceb-map-visual-localization-error-prediction-for-safe-navigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Autonomous Exploration With Incrementally Built Topological Map in 3-D Environments</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/efficient-autonomous-exploration-with-incrementally-built-topological-map-in-3-d-environments/</link>
+      <pubDate>Tue, 01 Dec 2020 05:46:14 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/efficient-autonomous-exploration-with-incrementally-built-topological-map-in-3-d-environments/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

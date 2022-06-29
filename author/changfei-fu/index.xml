@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Changfei Fu | Robot Vision and Navigation Lab</title>
+    <link>https://robot-vision-and-navigation-lab.github.io/author/changfei-fu/</link>
+      <atom:link href="https://robot-vision-and-navigation-lab.github.io/author/changfei-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Changfei Fu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://robot-vision-and-navigation-lab.github.io/author/changfei-fu/avatar_hu25a7f8e0690ad4485a55e1e1046d0ed6_297172_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Changfei Fu</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/author/changfei-fu/</link>
+    </image>
+    
+  </channel>
+</rss>

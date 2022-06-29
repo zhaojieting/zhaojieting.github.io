@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chuangbing and He | Robot Vision and Navigation Lab</title>
+    <link>https://robot-vision-and-navigation-lab.github.io/author/chuangbing-and-he/</link>
+      <atom:link href="https://robot-vision-and-navigation-lab.github.io/author/chuangbing-and-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chuangbing and He</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 05:45:10 +0000</lastBuildDate>
+    <image>
+      <url>https://robot-vision-and-navigation-lab.github.io/media/icon_hufd23fe07f913647ae034fd53d5c713c2_6850_512x512_fill_lanczos_center_3.png</url>
+      <title>Chuangbing and He</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/author/chuangbing-and-he/</link>
+    </image>
+    
+    <item>
+      <title>Keypoint Description by Descriptor Fusion Using Autoencoders</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/keypoint-description-by-descriptor-fusion-using-autoencoders/</link>
+      <pubDate>Fri, 01 May 2020 05:45:10 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/keypoint-description-by-descriptor-fusion-using-autoencoders/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

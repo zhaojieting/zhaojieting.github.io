@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weinan Chen | Robot Vision and Navigation Lab</title>
+    <link>https://robot-vision-and-navigation-lab.github.io/author/weinan-chen/</link>
+      <atom:link href="https://robot-vision-and-navigation-lab.github.io/author/weinan-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weinan Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://robot-vision-and-navigation-lab.github.io/author/weinan-chen/avatar_hu2a701a2b3d42cc0e8ba5e67004ae664b_13719_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Weinan Chen</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/author/weinan-chen/</link>
+    </image>
+    
+  </channel>
+</rss>

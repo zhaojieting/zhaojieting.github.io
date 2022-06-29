@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robot Vision and Navigation Lab</title>
+    <link>https://robot-vision-and-navigation-lab.github.io/</link>
+      <atom:link href="https://robot-vision-and-navigation-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robot Vision and Navigation Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jun 2022 07:10:14 +0000</lastBuildDate>
+    <image>
+      <url>https://robot-vision-and-navigation-lab.github.io/media/icon_hufd23fe07f913647ae034fd53d5c713c2_6850_512x512_fill_lanczos_center_3.png</url>
+      <title>Robot Vision and Navigation Lab</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Relationship Oriented Semantic Scene Understanding for Daily Manpulation Tasks</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/project/relationship-oriented-semantic-scene-understanding-for-daily-manpulation-tasks/</link>
+      <pubDate>Sat, 18 Jun 2022 07:10:14 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/project/relationship-oriented-semantic-scene-understanding-for-daily-manpulation-tasks/</guid>
+      <description>&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#about&#34;&gt;About&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#videos&#34;&gt;Videos&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#releated-publications&#34;&gt;Releated Publications&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;Assistive robot systems have been developed to help people accomplish daily manipulation tasks especially for those with disabilities, where scene understanding plays a crucial role in enabling robots to interpret the surroundings and behave accordingly. However, most of the current systems approach scene understanding without considering the functional dependencies between objects. In this research, we augment an assistive robotic arm system with an end-to-end semantic relationship reasoning model. It incorporates functional relationships between pairs of objects for semantic scene understanding. To ensure good generalization to unseen objects and relationships, the model works in a category-agnostic manner.  We further demonstrate the effectiveness of our pipeline by integrating it with a symbolic planner for goal-oriented, multi-step manipulation task.&lt;/p&gt;
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+&lt;h2 id=&#34;releated-publications&#34;&gt;Releated Publications&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;Relationship%20Oriented%20Semantic%20Scene%20Understanding%20for%20Daily%20Manipulation%20Tasks&#34;&gt;Relationship Oriented Semantic Scene Understanding for Daily Manipulation Tasks&lt;/a&gt;&lt;/strong&gt; (submitted to IROS 2022, under review)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A New CVPR Article</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/post/test_news_3/</link>
+      <pubDate>Thu, 05 May 2022 23:31:05 +0800</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/post/test_news_3/</guid>
+      <description>&lt;h2 id=&#34;hahahugoshortcode-s0-hbhb&#34;&gt;&lt;div class=&#34;ratio ratio-16x9 bilibili&#34;&gt;
+  &lt;iframe
+    src=&#34;https://player.bilibili.com/player.html?bvid=BV1Ka411q72H&#34;
+    width=&#34;100%&#34; height=&#34;400px&#34;
+    scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;
+    loading=&#34;lazy&#34;&gt;
+  &lt;/iframe&gt;
+&lt;/div&gt;&lt;/h2&gt;
+&lt;p&gt;Monocular person following (MPF) is a capability that supports many useful applications of a mobile robot. However, existing MPF solutions are not completely satisfactory. Firstly, they often fail to track the target at a close distance either because they are based on visual servo or they need the observation of the full body by the robot. Secondly, their target Re-IDentiﬁcation (Re-ID) abilities are weak in cases of target appearance change and highly similar appearance of distracting people. To remove the assumption of full-body observation, we propose a width-based tracking module, which relies on the target width, which can be observed even at a close distance. For handling issues related to appearance variation, we use a global CNN (convolutional neural network) descriptor to represent the target and a ridge regression model to learn a target appearance model online. We adopt a sampling strategy for online classiﬁer learning, in which both long-term and short-term samples are involved. We evaluate our method in two datasets including a public person following dataset and a custom-built with challenging target appearance and target distance. Our method achieves state-of-the-art (SOTA) results on both datasets. The code and dataset of our work in this research are publicly available in &lt;a href=&#34;https://github.com/MedlarTea/MPF&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/MedlarTea/MPF&lt;/a&gt; GRR SLT.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A New ICRA Article</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/post/test_news_2/</link>
+      <pubDate>Thu, 05 May 2022 23:31:05 +0800</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/post/test_news_2/</guid>
+      <description>&lt;h2 id=&#34;hahahugoshortcode-s0-hbhb&#34;&gt;&lt;div class=&#34;ratio ratio-16x9 bilibili&#34;&gt;
+  &lt;iframe
+    src=&#34;https://player.bilibili.com/player.html?bvid=BV1Ka411q72H&#34;
+    width=&#34;100%&#34; height=&#34;400px&#34;
+    scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;
+    loading=&#34;lazy&#34;&gt;
+  &lt;/iframe&gt;
+&lt;/div&gt;&lt;/h2&gt;
+&lt;p&gt;Monocular person following (MPF) is a capability that supports many useful applications of a mobile robot. However, existing MPF solutions are not completely satisfactory. Firstly, they often fail to track the target at a close distance either because they are based on visual servo or they need the observation of the full body by the robot. Secondly, their target Re-IDentiﬁcation (Re-ID) abilities are weak in cases of target appearance change and highly similar appearance of distracting people. To remove the assumption of full-body observation, we propose a width-based tracking module, which relies on the target width, which can be observed even at a close distance. For handling issues related to appearance variation, we use a global CNN (convolutional neural network) descriptor to represent the target and a ridge regression model to learn a target appearance model online. We adopt a sampling strategy for online classiﬁer learning, in which both long-term and short-term samples are involved. We evaluate our method in two datasets including a public person following dataset and a custom-built with challenging target appearance and target distance. Our method achieves state-of-the-art (SOTA) results on both datasets. The code and dataset of our work in this research are publicly available in &lt;a href=&#34;https://github.com/MedlarTea/MPF&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/MedlarTea/MPF&lt;/a&gt; GRR SLT.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A New IROS Article</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/post/test_news/</link>
+      <pubDate>Thu, 05 May 2022 23:31:05 +0800</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/post/test_news/</guid>
+      <description>&lt;h2 id=&#34;hahahugoshortcode-s0-hbhb&#34;&gt;&lt;div class=&#34;ratio ratio-16x9 bilibili&#34;&gt;
+  &lt;iframe
+    src=&#34;https://player.bilibili.com/player.html?bvid=BV1Ka411q72H&#34;
+    width=&#34;100%&#34; height=&#34;400px&#34;
+    scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;
+    loading=&#34;lazy&#34;&gt;
+  &lt;/iframe&gt;
+&lt;/div&gt;&lt;/h2&gt;
+&lt;p&gt;Monocular person following (MPF) is a capability that supports many useful applications of a mobile robot. However, existing MPF solutions are not completely satisfactory. Firstly, they often fail to track the target at a close distance either because they are based on visual servo or they need the observation of the full body by the robot. Secondly, their target Re-IDentiﬁcation (Re-ID) abilities are weak in cases of target appearance change and highly similar appearance of distracting people. To remove the assumption of full-body observation, we propose a width-based tracking module, which relies on the target width, which can be observed even at a close distance. For handling issues related to appearance variation, we use a global CNN (convolutional neural network) descriptor to represent the target and a ridge regression model to learn a target appearance model online. We adopt a sampling strategy for online classiﬁer learning, in which both long-term and short-term samples are involved. We evaluate our method in two datasets including a public person following dataset and a custom-built with challenging target appearance and target distance. Our method achieves state-of-the-art (SOTA) results on both datasets. The code and dataset of our work in this research are publicly available in &lt;a href=&#34;https://github.com/MedlarTea/MPF&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/MedlarTea/MPF&lt;/a&gt; GRR SLT.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Following Closely: A Robust Monocular Person Following System for Mobile Robot</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/following-closely-a-robust-monocular-person-following-system-for-mobile-robot/</link>
+      <pubDate>Mon, 25 Apr 2022 05:48:29 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/following-closely-a-robust-monocular-person-following-system-for-mobile-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/condition-invariant-and-compact-visual-place-description-by-convolutional-autoencoder/</link>
+      <pubDate>Fri, 15 Apr 2022 05:47:29 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/condition-invariant-and-compact-visual-place-description-by-convolutional-autoencoder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Strategy of Keyframe Selection With PD Controller for VSLAM Systems</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/dynamic-strategy-of-keyframe-selection-with-pd-controller-for-vslam-systems/</link>
+      <pubDate>Tue, 01 Feb 2022 05:43:12 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/dynamic-strategy-of-keyframe-selection-with-pd-controller-for-vslam-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping While Following: 2D LiDAR SLAM in Indoor Dynamic Environments with a Person Tracker</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/mapping-while-following-2d-lidar-slam-in-indoor-dynamic-environments-with-a-person-tracker/</link>
+      <pubDate>Wed, 01 Dec 2021 05:49:13 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/mapping-while-following-2d-lidar-slam-in-indoor-dynamic-environments-with-a-person-tracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness Improvement of Using Pre-Trained Network in Visual Odometry for On-Road Driving</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</link>
+      <pubDate>Wed, 01 Dec 2021 03:39:34 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/robustness-improvement-of-using-pre-trained-network-in-visual-odometry-for-on-road-driving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Improvement in 3D Object Landmark Inference for Semantic Mapping</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/robust-improvement-in-3d-object-landmark-inference-for-semantic-mapping/</link>
+      <pubDate>Sun, 30 May 2021 05:44:21 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/robust-improvement-in-3d-object-landmark-inference-for-semantic-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEB-Map: Visual Localization Error Prediction for Safe Navigation</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/ceb-map-visual-localization-error-prediction-for-safe-navigation/</link>
+      <pubDate>Sat, 15 May 2021 05:40:53 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/ceb-map-visual-localization-error-prediction-for-safe-navigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Autonomous Exploration With Incrementally Built Topological Map in 3-D Environments</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/efficient-autonomous-exploration-with-incrementally-built-topological-map-in-3-d-environments/</link>
+      <pubDate>Tue, 01 Dec 2020 05:46:14 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/efficient-autonomous-exploration-with-incrementally-built-topological-map-in-3-d-environments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keypoint Description by Descriptor Fusion Using Autoencoders</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/keypoint-description-by-descriptor-fusion-using-autoencoders/</link>
+      <pubDate>Fri, 01 May 2020 05:45:10 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/keypoint-description-by-descriptor-fusion-using-autoencoders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Walk Network for 3D Point Cloud Classification and Segmentation</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/publication/random-walk-network-for-3d-point-cloud-classification-and-segmentation/</link>
+      <pubDate>Sun, 01 Dec 2019 05:50:09 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/publication/random-walk-network-for-3d-point-cloud-classification-and-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://robot-vision-and-navigation-lab.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://robot-vision-and-navigation-lab.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://robot-vision-and-navigation-lab.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Highlights</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://robot-vision-and-navigation-lab.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

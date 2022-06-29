@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li He | Robot Vision and Navigation Lab</title>
+    <link>https://robot-vision-and-navigation-lab.github.io/author/li-he/</link>
+      <atom:link href="https://robot-vision-and-navigation-lab.github.io/author/li-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Li He</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://robot-vision-and-navigation-lab.github.io/author/li-he/avatar_hub2f1870256bac5a5780b4d4154a0b0b0_486125_270x270_fill_lanczos_center_3.png</url>
+      <title>Li He</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/author/li-he/</link>
+    </image>
+    
+  </channel>
+</rss>

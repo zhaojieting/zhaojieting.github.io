@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hong Zhang | Robot Vision and Navigation Lab</title>
+    <link>https://robot-vision-and-navigation-lab.github.io/author/hong-zhang/</link>
+      <atom:link href="https://robot-vision-and-navigation-lab.github.io/author/hong-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hong Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://robot-vision-and-navigation-lab.github.io/author/hong-zhang/avatar_hu3f4c9824731eee34357c21f436624949_2665924_270x270_fill_lanczos_center_3.png</url>
+      <title>Hong Zhang</title>
+      <link>https://robot-vision-and-navigation-lab.github.io/author/hong-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>
